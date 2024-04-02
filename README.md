@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sherry,a Fron-End developer
+I'm Sherry,Enthusiastic front-end developer with a passion for crafting beautiful and responsive web interfaces. Adept in HTML, CSS, JavaScript, and React.js. Always eager to learn and collaborate on new projects.
 
 <!--
 **SherryEbrahimi/SherryEbrahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
